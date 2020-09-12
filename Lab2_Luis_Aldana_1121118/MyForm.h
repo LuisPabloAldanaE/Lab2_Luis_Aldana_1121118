@@ -205,6 +205,7 @@ namespace Lab2LuisAldana1121118 {
 
 		int Num = rand() % 11;
 		lblDisplay->Text = "" + Num;
+		
 
 	}
 };
